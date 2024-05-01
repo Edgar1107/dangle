@@ -11,7 +11,7 @@
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
 <div align="center">
  
  [![GitHub followers](https://img.shields.io/github/followers/Edgar1107.svg?style=social&label=Followers)](https://github.com/Edgar1107?tab=followers)
@@ -37,7 +37,8 @@
  <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,vscode,github,pr,ae,stackoverflow,sublime" /> </a> </p>
  
  ### Thank you for visiting my profile 🤓 
- [![](https://gifdb.com/images/high/cute-cartoon-cat-bye-j5v46v5t4emf2gux.gif)
+
+ <img width="250" src="https://gifdb.com/images/high/cute-cartoon-cat-bye-j5v46v5t4emf2gux.gif">
  
  ### Feel free to fork and 🌟 this repo!!
  
