@@ -5,6 +5,7 @@
 
 <img src="https://profile-counter.glitch.me/Edgar1107/count.svg">
 
+ [![GitHub followers](https://img.shields.io/github/followers/Edgar1107.svg?style=social&label=Followers)](https://github.com/Edgar1107?tab=followers)
 
 <div align="left">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
@@ -15,7 +16,6 @@
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
 <div align="left">
  
- [![GitHub followers](https://img.shields.io/github/followers/Edgar1107.svg?style=social&label=Followers)](https://github.com/Edgar1107?tab=followers)
 
 
 ### Here's my github stats:
