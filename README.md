@@ -13,7 +13,7 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
-<div align="center">
+<div align="left">
  
  [![GitHub followers](https://img.shields.io/github/followers/Edgar1107.svg?style=social&label=Followers)](https://github.com/Edgar1107?tab=followers)
 
