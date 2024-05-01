@@ -12,6 +12,7 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
 <div align="center">
  
  [![GitHub followers](https://img.shields.io/github/followers/Edgar1107.svg?style=social&label=Followers)](https://github.com/Edgar1107?tab=followers)
@@ -24,16 +25,17 @@
 
 <div align="left">
  
- ### Languages I'm using
+ ### ● Back end
  [![language](https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,ruby&theme=dark)](https://skillicons.dev)<p align="left"> 
  
  
- ### Front development 
+ ### ● Front end
  [![HTML;CSS](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
  
- ### Technologies
+ ### ● Technologies
  [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
- ### Other
+
+ ### ● Other
  <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,vscode,github,pr,ae,stackoverflow,sublime" /> </a> </p>
  
  ### Thank you for visiting my profile 🤓 
