@@ -1,5 +1,4 @@
 <img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-<br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Dang!;my+English+name+is+Edgar!;I'm+a+software+engineer.)](https://git.io/typing-svg)
 
@@ -20,7 +19,7 @@
 
 ### Here's my github stats:
 
-![dgar1107 GitHub stats](https://github-readme-stats.vercel.app/api?username=Edgar1107&show_icons=true&theme=radical) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Edgar1107&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Edgar1107&theme=radical)](https://git.io/streak-stats) 
 
 <div align="left">
